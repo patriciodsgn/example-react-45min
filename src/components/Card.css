@@ -1,0 +1,20 @@
+.Card{
+  
+  padding: 32px;
+  margin: 32px;
+  border-radius: 8px;
+  background-color: #c7d7dc;
+  box-shadow: 4px 4px 16px 4px #888;
+  min-height: 100px;
+  width: 200px;
+}
+
+.Card h2{
+  color: #2b3a36;
+  margin: 0;
+}
+
+.Card p{
+  color: #2b3a36;
+  margin: 0;
+}

@@ -1,0 +1,24 @@
+.VehiclesView{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #deeca7;
+}
+
+
+.VehiclesView h2{
+  margin: 0;
+}
+
+.VehiclesView p{
+  margin-bottom: 40;
+}
+
+.VehiclesView img{
+  width: 50%;
+  object-fit: contain;
+  border-radius: 16px;
+}
